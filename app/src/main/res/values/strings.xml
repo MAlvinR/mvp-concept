@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MvpConcept</string>
+    <string name="success_message">Login berhasil</string>
+    <string name="error_message">Login Gagal, Silahkan coba lagi</string>
+
+    <string name="username_error">Username belum diisi</string>
+    <string name="password_error">Password belum diisi</string>
+</resources>
